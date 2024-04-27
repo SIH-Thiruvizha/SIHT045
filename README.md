@@ -1,6 +1,6 @@
 # SIHT045- Well-Being Wayfinder
 
-![Well-Being Wayfinder](https://images.unsplash.com/photo-1599163666602-ef737d996c16?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTV8fHxlbnwwfHx8fHw%3D)
+![Well-Being Wayfinder](https://i.pinimg.com/originals/04/1b/51/041b5101676c522da800dd53c9448325.png)
 
 ## Introduction
 
